@@ -1,0 +1,32 @@
+{
+    "people":[
+      {
+        
+        "name": "Ali",
+       "phoneNo": "1234567890"
+  
+      },
+      {
+      
+        "name": "Hussain",
+      "phoneNo":"1234567890"
+      },
+      {
+       
+        "name": "Omar",
+       "phoneNo":"1234567890"
+  
+      },
+      {
+        "name": "Sohail",
+       "phoneNo":"1234567890"
+  
+      },
+      {
+        
+        "name": "Shah",
+       "phoneNo":"1234567890"
+  
+      }
+    ]
+  }
